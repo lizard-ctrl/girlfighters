@@ -2,7 +2,7 @@ function myFunction() {
     
     var x = document.getElementsByClassName("name");
     var txt;
-    var name = prompt("Please enter a name:", "");{
+    var name = prompt("What are you with", "");{
       txt =  name;
       console.log(name);
       var i;
